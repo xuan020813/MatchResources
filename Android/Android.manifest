@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3740731102
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene_doobers.m
+      Dependencies: {}
+    Info_1:
+      Name: scene_eventsystem.m
+      Dependencies: {}
+    Info_2:
+      Name: scene_loadingscreen.m
+      Dependencies: {}
+    Info_3:
+      Name: scene_m3_banners.m
+      Dependencies: {}
+    Info_4:
+      Name: scene_m3boostsui.m
+      Dependencies: {}
+    Info_5:
+      Name: scene_m3_completedfailed.m
+      Dependencies: {}
+    Info_6:
+      Name: scene_m3_completedwon.m
+      Dependencies: {}
+    Info_7:
+      Name: scene_m3_continuouslevelcompleted.m
+      Dependencies: {}
+    Info_8:
+      Name: scene_m3_level.m
+      Dependencies: {}
+    Info_9:
+      Name: scene_m3_objectivesui.m
+      Dependencies: {}
+    Info_10:
+      Name: scene_m3_options.m
+      Dependencies: {}
+    Info_11:
+      Name: scene_overlay.m
+      Dependencies: {}
+    Info_12:
+      Name: scene_services.m
+      Dependencies: {}
+    Info_13:
+      Name: scene_townresourcepanel.m
+      Dependencies: {}
+    Info_14:
+      Name: scene_tutorialoverlay.m
+      Dependencies: {}
+    Info_15:
+      Name: scene_m3_launcher.m
+      Dependencies: {}
+    Info_16:
+      Name: loadingui.m
+      Dependencies: {}
+    Info_17:
+      Name: metadatadlls.m
+      Dependencies: {}

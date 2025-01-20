@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 291955824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a68c86f872e9e58f6c332dbbea6864e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a68c86f872e9e58f6c332dbbea6864e
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LZX/AOTDlls/Android/UnityEngine.CoreModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Wooga.JsonDotNetNode.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Telemetry.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Registration.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.SpriteShapeModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/HybridCLR.Runtime.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UnityWebRequestModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.SharedInternalsModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UnityWebRequestWWWModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.ScreenCaptureModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Sirenix.Serialization.Config.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.JSONSerializeModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UnityAnalyticsCommonModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.IMGUIModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UniTask.dll.bytes
+- Assets/LZX/AOTDlls/Android/DOTweenPro.dll.bytes
+- Assets/LZX/AOTDlls/Android/Assembly-CSharp.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Burst.Unsafe.dll.bytes
+- Assets/LZX/AOTDlls/Android/LZX.Main.UnHotUpdate.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Configuration.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.GridModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Sirenix.OdinInspector.Attributes.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Xml.dll.bytes
+- Assets/LZX/AOTDlls/Android/DOTween.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.Physics2DModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.ResourceManager.dll.bytes
+- Assets/LZX/AOTDlls/Android/LZXLoadingUI.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Mathematics.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Runtime.Serialization.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.SpriteMaskModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/StompyRobot.SRF.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Numerics.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UI.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.2D.Animation.Runtime.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.TextCoreTextEngineModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Internal.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Xml.Linq.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.AudioModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.AndroidJNIModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Analytics.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Scheduler.dll.bytes
+- Assets/LZX/AOTDlls/Android/Mono.Security.dll.bytes
+- Assets/LZX/AOTDlls/Android/mscorlib.dll.bytes
+- Assets/LZX/AOTDlls/Android/WoogaDebug.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.TextRenderingModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.AssetBundleModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.TilemapModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Assembly-CSharp-firstpass.dll.bytes
+- Assets/LZX/AOTDlls/Android/Newtonsoft.Json.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.TextCoreFontEngineModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Environments.Internal.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UnityWebRequestAssetBundleModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.DirectorModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UIElementsModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Core.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UnityAnalyticsModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Threading.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.PhysicsModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Services.Core.Device.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Collections.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.ImageConversionModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.InternalAPIEngineBridge.001.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.ParticleSystemModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/Sirenix.Utilities.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.UIModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Configuration.dll.bytes
+- Assets/LZX/AOTDlls/Android/Sirenix.Serialization.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.InputLegacyModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Drawing.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Burst.dll.bytes
+- Assets/LZX/AOTDlls/Android/StompyRobot.SRDebugger.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Timeline.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.PropertiesModule.dll.bytes
+- Assets/LZX/AOTDlls/Android/LZX.Resource.Runtime.dll.bytes
+- Assets/LZX/AOTDlls/Android/System.Data.dll.bytes
+- Assets/LZX/AOTDlls/Android/Unity.Addressables.dll.bytes
+- Assets/LZX/AOTDlls/Android/UnityEngine.AnimationModule.dll.bytes
+Dependencies: []

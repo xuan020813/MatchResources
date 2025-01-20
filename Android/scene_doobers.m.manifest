@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 2675197416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c877b807b38e9a30dd51b7511ae3beb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a653243055a05b3570bd2752e493e5a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c877b807b38e9a30dd51b7511ae3beb4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c1662c3fd6a713d2bf94101f3136be4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ddd21bea76734cff987c06175fd4aa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b11bb3b50dd8d70fae96a4c9eaa02ea3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d26539107fb0ea61f0fd2437e229be1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97db92246c1160e8d7d0b9f7a1691c58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dd121d42ed160bce5db129c78e5c5a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62d3cc21a6aea7222efebdb9251cd030, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d057d5df1c3e7986783d54ef9fce7951, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyFiles/Match2023/Scenes/Doobers.unity
+Dependencies: []
