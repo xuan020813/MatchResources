@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4004232721
+CRC: 3848421244
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75f8d2d9f6e63597489dbb7de175daa0
+    Hash: a372998ebcd73632ae733e9cc27ac478
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3c829df6129b214e5e9936f3cb0e38fc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 75f8d2d9f6e63597489dbb7de175daa0
+    Hash: a372998ebcd73632ae733e9cc27ac478
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -91,4 +91,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/MyFiles/Match2023/Scenes/M3_ObjectivesUi.unity
-Dependencies: []
+Dependencies:
+- D:/Hub/yingjie/merge2020/bin/output/Android/shader.m

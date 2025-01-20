@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1456308167
+CRC: 1084021255
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe246e15c28dd931c8054b25805b5986
+    Hash: 35db3020ef08c6e38c20c31815d01f4f
   TypeTreeHash:
     serializedVersion: 2
     Hash: d11bdce2c63abcfc3e8d571937e2700a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fe246e15c28dd931c8054b25805b5986
+    Hash: 35db3020ef08c6e38c20c31815d01f4f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -329,4 +329,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/MyFiles/Match2023LevelLauncher/M3_Launcher.unity
-Dependencies: []
+Dependencies:
+- D:/Hub/yingjie/merge2020/bin/output/Android/shader.m

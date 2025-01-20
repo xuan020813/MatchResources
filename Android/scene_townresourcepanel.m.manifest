@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4207544104
+CRC: 2558543164
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ea282426b76a9252d850338f8c3b812
+    Hash: 072332c4368a530b6fe9b1a3b063503d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c9a3f605a495864ca31ce27f53e8200
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8ea282426b76a9252d850338f8c3b812
+    Hash: 072332c4368a530b6fe9b1a3b063503d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -107,4 +107,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/MyFiles/Match2023/Scenes/TownResourcePanel.unity
-Dependencies: []
+Dependencies:
+- D:/Hub/yingjie/merge2020/bin/output/Android/shader.m

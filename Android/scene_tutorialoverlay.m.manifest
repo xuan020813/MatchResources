@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 492377778
+CRC: 4168531160
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd193a15894f732cf43463913c013001
+    Hash: bf81fafe6de6b95dde60ae0e5f921fad
   TypeTreeHash:
     serializedVersion: 2
     Hash: d0295179f73eae7eaf0daacfb43a9fb1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cd193a15894f732cf43463913c013001
+    Hash: bf81fafe6de6b95dde60ae0e5f921fad
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -123,4 +123,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/MyFiles/Match2023/Scenes/TutorialOverlay.unity
-Dependencies: []
+Dependencies:
+- D:/Hub/yingjie/merge2020/bin/output/Android/shader.m

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3406124866
+CRC: 2204041595
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,28 +13,35 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: scene_m3_banners.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_4:
       Name: scene_m3boostsui.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_5:
       Name: scene_m3_completedfailed.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_6:
       Name: scene_m3_completedwon.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_7:
       Name: scene_m3_continuouslevelcompleted.m
       Dependencies: {}
     Info_8:
       Name: scene_m3_level.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_9:
       Name: scene_m3_objectivesui.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_10:
       Name: scene_m3_options.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_11:
       Name: scene_overlay.m
       Dependencies: {}
@@ -43,16 +50,22 @@ AssetBundleManifest:
       Dependencies: {}
     Info_13:
       Name: scene_townresourcepanel.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_14:
       Name: scene_tutorialoverlay.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_15:
       Name: scene_m3_launcher.m
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: shader.m
     Info_16:
       Name: loadingui.m
       Dependencies: {}
     Info_17:
+      Name: shader.m
+      Dependencies: {}
+    Info_18:
       Name: metadatadlls.m
       Dependencies: {}
