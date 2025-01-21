@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1390893408
+CRC: 3490556937
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -34,6 +34,7 @@ AssetBundleManifest:
       Name: scene_m3_level.m
       Dependencies:
         Dependency_0: shader.m
+        Dependency_1: audio.m
     Info_9:
       Name: scene_m3_objectivesui.m
       Dependencies:
@@ -67,5 +68,8 @@ AssetBundleManifest:
       Name: shader.m
       Dependencies: {}
     Info_18:
+      Name: audio.m
+      Dependencies: {}
+    Info_19:
       Name: metadatadlls.m
       Dependencies: {}

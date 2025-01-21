@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3135526699
+CRC: 1896090836
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1d7ec2df732c3c30c9161e3f6ac4b6fd
+    Hash: 20797562f58de9283249dffd8ec283b0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 75c519393eff0c98331f435b618b9ed2
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1d7ec2df732c3c30c9161e3f6ac4b6fd
+    Hash: 20797562f58de9283249dffd8ec283b0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -412,4 +412,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/MyFiles/Match2023/Scenes/M3_Level.unity
 Dependencies:
+- D:/Hub/yingjie/merge2020/bin/output/Android/audio.m
 - D:/Hub/yingjie/merge2020/bin/output/Android/shader.m
