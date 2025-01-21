@@ -1,92 +1,124 @@
 ManifestFileVersion: 0
-CRC: 3654561957
+CRC: 1622392618
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 574546d974fb652af3c9a82663515705
+    Hash: 6759c38f3c5667fdeb37c3a99c4f0ab9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+    Hash: 7ccc166b010a2bce6f5777fd9e22ec35
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 574546d974fb652af3c9a82663515705
+    Hash: 6759c38f3c5667fdeb37c3a99c4f0ab9
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+- Class: 114
+  Script: {fileID: 11500000, guid: c65df2aafd8953eb3b10a7aa2636713e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Match2023
+  ClassName: Match2023.Common.SerializableDictionaryAudioIdAudioItem
+- AssemblyName: Match2023
+  ClassName: Match3.Scripts1.AudioItem
 Assets:
-- Assets/MyFiles/Match2023/Art/Audio/Level won screen (jingle) v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Chapter Start Sound - jingle v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Shouts - purrr 1 [+2 semitones].wav
-- Assets/MyFiles/Match2023/Art/Audio/Create Bomb gem.wav
-- Assets/MyFiles/Match2023/Art/Audio/BuildingInfoPopup.wav
-- Assets/MyFiles/Match2023/Art/Audio/Single objective complete.wav
-- Assets/MyFiles/Match2023/Art/Audio/bird feather charges bird V3 16bit (1).wav
-- Assets/MyFiles/Match2023/Art/Audio/Place object-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Chapter complete - jingle v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Butterfly flapping wings_v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Close level map-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Diamonds being added to HUD - reach diamond
-  counter.wav
-- Assets/MyFiles/Match2023/Art/Audio/Slideout menu opening-v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Shouts - meow 1b [+2 semitones].wav
-- Assets/MyFiles/Match2023/Art/Audio/Unwrap object-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Building object-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/treasure_coin_drop_05.wav
-- Assets/MyFiles/Match2023/Art/Audio/Clear rubble-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Quest item added to diary_2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Create butterfly-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/ClimberGemMatched.wav
-- Assets/MyFiles/Match2023/Art/Audio/Building finished.wav
-- Assets/MyFiles/Match2023/Art/Audio/Shouts - purrr 2 [+2 semitones].wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Find worker-v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/IslandMusic_Nordog.wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Replacing a gem with a different object.wav
-- Assets/MyFiles/Match2023/Art/Audio/x invalid swap V1 16bit (1).wav
-- Assets/MyFiles/Match2023/Art/Audio/Shouts - Plan C_woohooo_pitched.wav
-- Assets/MyFiles/Match2023/Art/Audio/Swap Gems 1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Bomb + Bomb gem effect v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Speechbubble appears-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Gem Lands.wav
-- Assets/MyFiles/Match2023/Art/Audio/Line Gem effect-v5.wav
-- Assets/MyFiles/Match2023/Art/Audio/Statue uncovered_With_Purring.wav
-- Assets/MyFiles/Match2023/Art/Audio/Create line gem.wav
-- Assets/MyFiles/Match2023/Art/Audio/Island - Music- Soundscape layer-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Open level map-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Invalid Swap.wav
-- Assets/MyFiles/Match2023/Art/Audio/Island - Music Instrumental layer v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Leaves hit - removed.wav
-- Assets/MyFiles/Match2023/Art/Audio/Rainbow + Rainbow gem combination effect_Shortened.wav
-- Assets/MyFiles/Match2023/Art/Audio/Slideout menu closing-v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/HiddenItemOrClimberCollected.wav
-- Assets/MyFiles/Match2023/Art/Audio/M3 - Music- soundscape layer-v5.wav
-- Assets/MyFiles/Match2023/Art/Audio/Picking up an object-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Rope hit.wav
-- Assets/MyFiles/Match2023/Art/Audio/Show congratulations_2.wav
-- Assets/MyFiles/Match2023/Art/Audio/ClimberCollected_v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Stone hit removed.wav
-- Assets/MyFiles/Match2023/Art/Audio/Banner Disappearing v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Gem Trickles.wav
-- Assets/MyFiles/Match2023/Art/Audio/Popup appearing.wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 6.wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 7.wav
-- Assets/MyFiles/Match2023/Art/Audio/Rainbow gem effect (charging gems).wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 5.wav
-- Assets/MyFiles/Match2023/Art/Audio/Create Rainbow gem.wav
-- Assets/MyFiles/Match2023/Art/Audio/All objectives completed banner.wav
-- Assets/MyFiles/Match2023/Art/Audio/Spending Diamonds v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/ClimberJump.wav
-- Assets/MyFiles/Match2023/Art/Audio/Banner Appearing v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 3.wav
-- Assets/MyFiles/Match2023/Art/Audio/new leve won screen fireworks_fadeIn.wav
-- Assets/MyFiles/Match2023/Art/Audio/Reshuffling v2.wav
-- Assets/MyFiles/Match2023/Art/Audio/Popup disappearing.wav
-- Assets/MyFiles/Match2023/Art/Audio/Banner Appearing v2_d1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Match gems 4.wav
-- Assets/MyFiles/Match2023/Art/Audio/Quest completed popup-v1.wav
-- Assets/MyFiles/Match2023/Art/Audio/Shouts - Plan C_hahaa_pitched.wav
-- Assets/MyFiles/Match2023/Art/Audio/Purchase diamonds.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Level won screen (jingle)
+  v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Chapter Start Sound -
+  jingle v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Shouts - purrr 1 [+2
+  semitones].wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Create Bomb gem.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/BuildingInfoPopup.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Single objective complete.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/bird feather charges
+  bird V3 16bit (1).wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Place object-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Chapter complete - jingle
+  v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Butterfly flapping wings_v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Close level map-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Diamonds being added
+  to HUD - reach diamond counter.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Slideout menu opening-v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Shouts - meow 1b [+2
+  semitones].wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Unwrap object-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Building object-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/treasure_coin_drop_05.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Clear rubble-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Quest item added to diary_2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Create butterfly-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/ClimberGemMatched.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Building finished.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Shouts - purrr 2 [+2
+  semitones].wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/AudioRegistry.asset
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Find worker-v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/IslandMusic_Nordog.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Replacing a gem with
+  a different object.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/x invalid swap V1 16bit
+  (1).wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Shouts - Plan C_woohooo_pitched.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Swap Gems 1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Bomb + Bomb gem effect
+  v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Speechbubble appears-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Gem Lands.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Line Gem effect-v5.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Statue uncovered_With_Purring.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Create line gem.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Island - Music- Soundscape
+  layer-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Open level map-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Invalid Swap.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/mixer/GeneralMixer.mixer
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Island - Music Instrumental
+  layer v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Leaves hit - removed.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Rainbow + Rainbow gem
+  combination effect_Shortened.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Slideout menu closing-v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/HiddenItemOrClimberCollected.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/M3 - Music- soundscape
+  layer-v5.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Picking up an object-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Rope hit.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Show congratulations_2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/ClimberCollected_v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Stone hit removed.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Banner Disappearing v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Gem Trickles.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Popup appearing.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 6.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 7.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Rainbow gem effect (charging
+  gems).wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 5.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Create Rainbow gem.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/All objectives completed
+  banner.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Spending Diamonds v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/ClimberJump.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Banner Appearing v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 3.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/new leve won screen fireworks_fadeIn.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Reshuffling v2.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Popup disappearing.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Banner Appearing v2_d1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Match gems 4.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Quest completed popup-v1.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Shouts - Plan C_hahaa_pitched.wav
+- Assets/MyFiles/Match2023/GameConfig/Resources/audio/Audio/Purchase diamonds.wav
 Dependencies: []
